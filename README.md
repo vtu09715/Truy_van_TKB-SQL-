@@ -22,7 +22,7 @@ Gợi ý:
 
 deadline: 15/4/2025
 
-1: TẠO CÁC BẢNG
+## 1: TẠO CÁC BẢNG
 ![image](https://github.com/user-attachments/assets/f40c5411-a3c6-40b9-9cf4-b3429d5d1a74)
 # TẠO BẢNG GIAOVIEN
 ![image](https://github.com/user-attachments/assets/d2d649f1-ddcc-479b-b3b7-d7090a32f7bc)
@@ -32,11 +32,25 @@ deadline: 15/4/2025
 ![image](https://github.com/user-attachments/assets/cb01f5c2-3bec-4800-af63-981ec2fe2bf8)
 # TẠO BẢNG TKB
 
-2: TẠO KHOÁ NGOẠI LIÊN KẾT CÁC BẢNG
+## 2: TẠO KHOÁ NGOẠI LIÊN KẾT CÁC BẢNG
 ![image](https://github.com/user-attachments/assets/5be751c7-c6a3-42c1-a384-323ae9d5e4dd)
 # tạo khoá ngoại liên kết giữa bảng GiaoVien với TKB
 ![image](https://github.com/user-attachments/assets/eddbc26e-f90a-4a8e-8839-95121dbd610b)
 # tạo khoá ngoại liên kết giữa bảng LopHocPhan với bảng TKB
+![image](https://github.com/user-attachments/assets/4ac67664-bd48-4962-8d09-42ef5778e575)
+# tạo khoá ngoại liên kết giữa bảng MonHoc với bảng TKB
+
+## 3: ĐIỀN THÔNG TIN CHO CÁC CỘT
+![image](https://github.com/user-attachments/assets/9f7dc19e-6283-42a6-b1cc-e96d61af8db1)
+# Truy cập edit cho các bảng.
+![image](https://github.com/user-attachments/assets/214853d9-759b-4a13-ad73-81ee748e9453)
+# Điền thông tin giáo viên (MaGV , HoTen) vào bảng GiaoVien.
+![image](https://github.com/user-attachments/assets/b59b53f4-6d03-4bc0-a0c1-6f26c93fc79f)
+# Điền thông tin cho bảng MonHoc, gồm MaMon , TenMon của tất cả giáo viên.
+![image](https://github.com/user-attachments/assets/5d41aab5-d71e-4903-b083-26beeff81469)
+# Điền thông tin maLHp , TenLop vào bảng LopHP
+
+
 
 
 
