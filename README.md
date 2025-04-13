@@ -22,3 +22,27 @@ Gợi ý:
 
 deadline: 15/4/2025
 
+1: TẠO CÁC BẢNG
+![image](https://github.com/user-attachments/assets/f40c5411-a3c6-40b9-9cf4-b3429d5d1a74)
+# TẠO BẢNG GIAOVIEN
+![image](https://github.com/user-attachments/assets/d2d649f1-ddcc-479b-b3b7-d7090a32f7bc)
+# TẠO BẢNG LOPHP
+![image](https://github.com/user-attachments/assets/81305632-0605-4fe0-bbf4-3cbebb79fb36)
+# TẠO BẢNG MONHOC
+![image](https://github.com/user-attachments/assets/cb01f5c2-3bec-4800-af63-981ec2fe2bf8)
+# TẠO BẢNG TKB
+
+2: TẠO KHOÁ NGOẠI LIÊN KẾT CÁC BẢNG
+![image](https://github.com/user-attachments/assets/5be751c7-c6a3-42c1-a384-323ae9d5e4dd)
+# tạo khoá ngoại liên kết giữa bảng GiaoVien với TKB
+![image](https://github.com/user-attachments/assets/eddbc26e-f90a-4a8e-8839-95121dbd610b)
+# tạo khoá ngoại liên kết giữa bảng LopHocPhan với bảng TKB
+
+
+
+
+
+
+
+
+
