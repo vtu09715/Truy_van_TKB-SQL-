@@ -39,7 +39,8 @@ deadline: 15/4/2025
 # tạo khoá ngoại liên kết giữa bảng LopHocPhan với bảng TKB
 ![image](https://github.com/user-attachments/assets/4ac67664-bd48-4962-8d09-42ef5778e575)
 # tạo khoá ngoại liên kết giữa bảng MonHoc với bảng TKB
-
+![image](https://github.com/user-attachments/assets/ab0fa2ca-7c82-4a2b-afe2-91ed70cd10d2)
+# Liên kết khoá ngoại
 ## 3: ĐIỀN THÔNG TIN CHO CÁC CỘT
 ![image](https://github.com/user-attachments/assets/9f7dc19e-6283-42a6-b1cc-e96d61af8db1)
 # Truy cập edit cho các bảng.
