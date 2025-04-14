@@ -49,8 +49,16 @@ deadline: 15/4/2025
 # Điền thông tin cho bảng MonHoc, gồm MaMon , TenMon của tất cả giáo viên.
 ![image](https://github.com/user-attachments/assets/5d41aab5-d71e-4903-b083-26beeff81469)
 # Điền thông tin maLHp , TenLop vào bảng LopHP
+![image](https://github.com/user-attachments/assets/1b9966a2-5f72-45e8-a411-ae562889d98b)
+# Điền thông tin cho bảng TKB ( xắp xếp lịch học của các các thầy cô)
 
-
+## 4: truy vấn datetime1 tới datetime2 thì có giáo viên nào bận giảng dạy
+![image](https://github.com/user-attachments/assets/7dac718d-0460-454b-903e-050f7dbc8b30)
+# viết lệnh để truy vấn từ tiết 1 ngày 17-03-2025 đến tiết 3 ngày 18-03-2025, xem có những giáo viên nào bận giảng dạy.
+![image](https://github.com/user-attachments/assets/f1d6bc6d-2a0b-4426-bff4-e2458280613a)
+# Đã truy vấn ra những giáo viên bận giảng dạy
+![image](https://github.com/user-attachments/assets/5df9ec17-2b27-4c2f-aeb9-e1a6312ed694)
+## KẾT QUẢ CỦA BÀI TOÀN EM ĐÃ LÀM.
 
 
 
